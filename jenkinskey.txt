@@ -1,0 +1,2 @@
+nick@nick-vm:~$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+efacbcd3cce6495ab4701cdafa7753c7
